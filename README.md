@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Dashboard (Excel)
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Screenshot 2026-02-22 233731.png)
 
 ## 📌 Project Overview
 This Excel project presents an interactive **Hospital Emergency Room (ER) Dashboard** designed to monitor and analyze monthly patient flow, operational performance, and service quality.  
